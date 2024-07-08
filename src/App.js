@@ -15,7 +15,7 @@ export default function App() {
 
   return (
     <div>
-      <a href="AmEx.PNG" onClick={downloadImage}>Download Image - AmEx.PNG</a>
+      <h1>Downloaded Image - AmEx.PNG</h1>
     </div>
   )
 }
