@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/photos/static/js/main.dbfd293f.js",
+    "static/media/AmEx.PNG": "/photos/static/media/AmEx.2a93446b5fbc377509db.PNG",
+    "index.html": "/photos/index.html",
+    "main.dbfd293f.js.map": "/photos/static/js/main.dbfd293f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dbfd293f.js"
+  ]
+}
