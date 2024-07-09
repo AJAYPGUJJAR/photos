@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/photos/static/js/main.00cefa6a.js",
+    "main.js": "/photos/static/js/main.d4ec6c0f.js",
+    "static/media/AmEx.jpeg": "/photos/static/media/AmEx.534f22981f29f9afb307.jpeg",
     "index.html": "/photos/index.html",
-    "main.00cefa6a.js.map": "/photos/static/js/main.00cefa6a.js.map"
+    "main.d4ec6c0f.js.map": "/photos/static/js/main.d4ec6c0f.js.map"
   },
   "entrypoints": [
-    "static/js/main.00cefa6a.js"
+    "static/js/main.d4ec6c0f.js"
   ]
 }
